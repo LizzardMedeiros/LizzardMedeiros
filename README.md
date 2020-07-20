@@ -2,7 +2,7 @@
 
 ![LizzardMedeiros's github stats](https://github-readme-stats.vercel.app/api?username=LizzardMedeiros&show_icons=true&hide_border=true)
 
-Here are some ideas to get you started:
+Curious things about me:
 
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning javascript on Trybe and solidity by myself
