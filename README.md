@@ -4,7 +4,7 @@
 
 Curious things about me:
 
-- 🔭 I’m currently working on home
+- 🔭 I’m currently working from home
 - 🌱 I’m currently learning javascript on Trybe and solidity by myself
 - 👯 I’m looking to collaborate on all that I can!
 - 💬 Ask me about anything, I love all subjects!
