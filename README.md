@@ -10,7 +10,7 @@ Projects I contribute:
 
 Skills:
 
-<code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arduino.svg">/code>
+<code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arduino.svg"></code>
 <code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeigniter.svg"></code>
 <code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gimp.svg"></code>
 <code><img height="20" src="https://simpleicons.org/icons/react.svg"></code>
