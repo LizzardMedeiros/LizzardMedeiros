@@ -8,6 +8,20 @@ Projects I contribute:
 
 - 👯 [Cryptoflix] https://github.com/deborapolesel/Cryptoflix
 
+Skills:
+
+<code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arduino.svg">/code>
+<code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codeigniter.svg"></code>
+<code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gimp.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/react.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/vue-dot-js.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/blender.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/javascript.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg"></code>
+<code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"></code>
+
 Curious things about me:
 
 - 🔭 I’m currently working from home
