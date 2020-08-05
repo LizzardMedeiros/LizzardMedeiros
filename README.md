@@ -7,6 +7,7 @@
 Projects I contribute:
 
 - 👯 [Cryptoflix] https://github.com/deborapolesel/Cryptoflix
+- 👯 [Poxnora] https://github.com/FelipeVieira86/poxnora
 
 Skills:
 
