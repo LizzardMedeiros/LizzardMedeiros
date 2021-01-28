@@ -4,6 +4,8 @@
 ![LizzardMedeiros's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LizzardMedeiros&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
 ![LizzardMedeiros's status](https://github-readme-stats.vercel.app/api?username=LizzardMedeiros&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
 
+![](https://komarev.com/ghpvc/?username=LizzardMedeiros)
+
 Projects I contribute:
 
 - 👯 [Cryptoflix] https://github.com/deborapolesel/Cryptoflix
