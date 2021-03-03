@@ -12,6 +12,26 @@ Projects I contribute:
 - 👯 [Cryptoflix] https://github.com/deborapolesel/Cryptoflix
 - 👯 [Poxnora] https://github.com/FelipeVieira86/poxnora
 
+``` javascript
+module.exports = (lizzard) => (user) => {
+  lizzard.get('/', rescue(async (_, res) => {
+    const response = await user.index({
+      nome: 'Luís Medeiros',
+      idade: 33,
+      cidade: ['Belo Horizonte', 'MG'],
+      stack: ['HTML5', 'CSS3', 'Javascript', 'Solidity', 'PHP', 'NodeJS', 'ReactJS', 'VUEJS', 'MongoDB', 'MySQL', 'Docker', 'Jest', 'RTL', 'Arduino' ],
+      hobbies: ['Games', 'Boardgames', 'Guitarra', 'Galinhas', 'Robótica', 'Desafios!!!'],
+    });
+
+    res.status(STATUS_SUCCESS).json(response);
+  }));
+
+  return {
+    lizzard,
+  }
+};
+```
+
 Skills:
 
 <code><img height="20" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arduino.svg"></code>
