@@ -1,6 +1,6 @@
 ### Hello My Friend! Stay awhile and listen 👋
 
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LizzardMedeiros&theme=dark" height="250px">
   <img src = "https://github-readme-stats.vercel.app/api?username=LizzardMedeiros&show_icons=true&line_height=33&theme=dark" height="250px"> 
 </p>
