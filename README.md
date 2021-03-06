@@ -25,10 +25,6 @@ module.exports = (lizzard) => (user) => {
 
     res.status(STATUS_SUCCESS).json(response);
   }));
-
-  return {
-    lizzard,
-  }
 };
 ```
 
