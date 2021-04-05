@@ -13,7 +13,7 @@ Projects I contribute:
 - 👯 [Poxnora] https://github.com/FelipeVieira86/poxnora
 
 ``` javascript
-module.exports = (lizzard) => (user) => {
+module.exports = (lizzard) => async (user) => {
   lizzard.get('/', rescue(async (_, res) => {
     const response = await user.index({
       nome: 'Luís Medeiros',
