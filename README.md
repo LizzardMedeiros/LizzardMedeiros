@@ -22,6 +22,12 @@ module.exports = (lizzard) => (user) => {
   }));
 };
 ```
+#### Resume:
+<div>
+	<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzardMedeiros&show_icons=true&theme=transparent&layout=compact"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LizzardMedeiros&show_icons=true&theme=transparent"/>
+	<img align="right" height="160em" src=https://i.imgur.com/djPLO1m.gif />
+</div>
 
 #### Skills:
 
